@@ -1,8 +1,8 @@
-# Application Structure
+## Application Structure
 
 ---
 
-# Application: Compute Climatology
+### Application: Compute Climatology
 
 ```python
 from cdstoolbox import app
@@ -40,7 +40,7 @@ def compute_climatology(
 
 ---
 
-# Import
+### Import
 ```python
 from cdstoolbox import app
 from cdstoolbox.tools import cdstools as ct
